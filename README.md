@@ -1,2 +1,3 @@
-# PythonExercises
-All the Python Programs That I Write
+#A-Z Python Practice
+
+Beginner Python codes for practice
